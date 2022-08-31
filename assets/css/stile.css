@@ -90,7 +90,17 @@ blockquote {
     border-radius: 2vw;
   }
 
-  
+.p1 {
+    font-stretch: expanded;
+    padding: 2px;
+    line-height: 7vw;
+    text-align: left;
+    margin-left: 5vw;
+    font-weight: 600;
+}
+.p1 strong {
+    color: #489EC2;
+}
 /* ELEMENTI NEL MAIN */
 
 /* FOOTER */
