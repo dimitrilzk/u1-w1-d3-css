@@ -11,6 +11,11 @@ header {
     background-color: #489EC2;
     font-size: 6vw;
 }
+
+.pblock {
+    font-style: italic;
+}
+
 h1 {
     color: white;
     font-weight: 500;
@@ -44,8 +49,8 @@ main {
     font-weight: 600;
     font-size: 5.5vw;
     text-transform: uppercase;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 10vw;
+    padding-bottom: 5vw;
     font-stretch: condensed;
 }
 
@@ -100,6 +105,55 @@ blockquote {
 }
 .p1 strong {
     color: #489EC2;
+}
+
+.hr2 {
+    border-top: 1px dashed grey;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 10vw;
+}
+
+h3 {
+    font-weight: bold;
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+    margin-left: 5vw;
+    text-align: left;
+}
+
+mark{
+    background-color: #489EC2;
+    color: white;
+}
+
+a {color: orange;}
+
+ul {
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+    text-align: left;
+    margin-left: 15vw;
+}
+
+dt {
+    text-align: left;
+    margin-left: 5vw;
+}
+
+dd{
+    text-align: left;
+    margin-left: 10vw;
+}
+
+.str {
+    color: #489EC2;
+}
+
+dl {
+    line-height: 7vw;
+    font-weight: 600;
+    margin-bottom: 15vw;
 }
 /* ELEMENTI NEL MAIN */
 
