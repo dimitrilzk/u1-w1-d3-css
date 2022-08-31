@@ -158,3 +158,27 @@ dl {
 /* ELEMENTI NEL MAIN */
 
 /* FOOTER */
+.hrfooter {
+    border-bottom: 7px solid #489EC2;
+    margin-top: 0%;
+}
+
+a1 {color: rgb(255, 34, 0);}
+
+kbd {color: yellow;}
+
+.lastp {color: white;}
+
+.pp {color: white;
+margin-left: 5vw;
+margin-right: 5vw;
+font-size: 4vw;
+margin-bottom: 3vw;
+}
+.prep {color: gray;
+font-size: 4vw;}
+
+footer {
+    background-color: rgb(72, 70, 70);
+    text-align: center;
+}
