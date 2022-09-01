@@ -33,12 +33,10 @@ span {
     font-size: 5vw;
     padding-bottom: 30px;
     font-variant: small-caps;
+    border-bottom: 5px solid #31738D;
 }
 /* MAIN */
-.hr1 {
-    border-bottom: 7px solid #31738D;
-    margin-top: 0%;
-}
+
 main {
     text-align: center;
     font-family:  'Raleway', sans-serif;
@@ -54,13 +52,15 @@ main {
     font-stretch: condensed;
 }
 
-figure {
+.img5 {
     border: 1px solid #000;
-    padding-top: 10px;
+    padding: 10px;
 }
 
 figcaption {
+    margin-top: 10px;
     margin-bottom: 20px;
+    font-weight: 600;
 }
 
 address :not(a) {
